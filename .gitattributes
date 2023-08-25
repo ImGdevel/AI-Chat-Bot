@@ -1,1 +1,2 @@
-*.PuerBasic linguist-detectable=false
+*.h5 linguist-detectable=false
+*.pb linguist-detectable=false
